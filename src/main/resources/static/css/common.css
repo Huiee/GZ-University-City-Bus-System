@@ -1,0 +1,38 @@
+/*note*/
+.note-form{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+/*note输入框*/
+.note-form-control[disabled]{
+     height: 480px;
+     width: 650px;
+     padding: 20px;
+     margin: 30px;
+     background-color: #f7f7f7;
+     border-color: #63a5a4;
+ }
+.note-form-control{
+    height: 480px;
+    width: 650px;
+    padding: 20px;
+    margin: 30px;
+    background-color: #ffffff;
+}
+.badge-subway {
+    display: inline-block;
+    min-width: 8px;
+    padding: 8px 5px;
+    margin-top: 8px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+    color: #f9f9f9;
+    text-align: center;
+    white-space: normal;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+

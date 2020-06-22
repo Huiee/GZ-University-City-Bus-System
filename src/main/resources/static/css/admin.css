@@ -1,0 +1,22 @@
+.cover-top-table{
+    margin: 2%;
+}
+
+/*用户账号管理按钮*/
+.btn-blue {
+    color: #fff;
+    background-color: #275382;
+    border-color: #393f44;
+    padding: 3% 10%;
+    font-size: inherit;
+}
+
+.middle_outer_cover_appeal {
+    position: absolute !important;
+    top: 29% !important;
+    bottom: 7%;
+    width: 100%;
+    overflow: hidden;
+    height: auto !important;
+    overflow-y: auto;
+}
